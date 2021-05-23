@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Listthings</string>
+    <string name="add_some_task_for_your_ease">Add some task for your ease</string>
+    <string name="to_do">To Do</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
